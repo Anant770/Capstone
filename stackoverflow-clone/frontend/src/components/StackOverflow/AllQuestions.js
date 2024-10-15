@@ -1,5 +1,5 @@
 import { Avatar } from "@material-ui/core";
-import React, { useState } from "react";
+import React from "react";
 import "./css/AllQuestions.css";
 import ReactHtmlParser from "react-html-parser";
 import { Link } from "react-router-dom";
